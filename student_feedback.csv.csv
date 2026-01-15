@@ -1,0 +1,501 @@
+Event_Name,Event_Type,Department,Rating,Feedback
+AI Seminar,Seminar,IT,4,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+Business Talk,Seminar,Management,2,Expected more content
+Business Talk,Seminar,Management,4,Highly engaging and useful
+Business Talk,Seminar,Management,4,Great event and well organized
+Cultural Night,Cultural,Arts,3,Nothing special
+Business Talk,Seminar,Management,2,Too long and boring
+Cultural Night,Cultural,Arts,1,Poor management
+Cultural Night,Cultural,Arts,1,Too long and boring
+AI Seminar,Seminar,IT,5,Amazing experience
+Business Talk,Seminar,Management,1,Too long and boring
+Tech Fest,Workshop,CSE,5,Learned a lot from this session
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+Business Talk,Seminar,Management,4,Highly engaging and useful
+Cultural Night,Cultural,Arts,1,Not useful
+Robotics Workshop,Workshop,Mechanical,2,Very disappointing
+Tech Fest,Workshop,CSE,1,Very disappointing
+Cultural Night,Cultural,Arts,2,Too long and boring
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+Cultural Night,Cultural,Arts,1,Very disappointing
+Robotics Workshop,Workshop,Mechanical,1,Poor management
+Tech Fest,Workshop,CSE,5,Highly engaging and useful
+Business Talk,Seminar,Management,2,Very disappointing
+Business Talk,Seminar,Management,1,Not useful
+Cultural Night,Cultural,Arts,1,Too long and boring
+AI Seminar,Seminar,IT,2,Expected more content
+Robotics Workshop,Workshop,Mechanical,4,Learned a lot from this session
+Robotics Workshop,Workshop,Mechanical,1,Very disappointing
+Tech Fest,Workshop,CSE,4,Amazing experience
+Tech Fest,Workshop,CSE,3,Nothing special
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+AI Seminar,Seminar,IT,2,Expected more content
+Business Talk,Seminar,Management,1,Very disappointing
+Tech Fest,Workshop,CSE,1,Poor management
+Robotics Workshop,Workshop,Mechanical,2,Not useful
+Cultural Night,Cultural,Arts,1,Poor management
+Cultural Night,Cultural,Arts,5,Amazing experience
+Business Talk,Seminar,Management,1,Too long and boring
+Business Talk,Seminar,Management,3,Decent session
+Tech Fest,Workshop,CSE,3,Average experience
+Robotics Workshop,Workshop,Mechanical,1,Not useful
+Business Talk,Seminar,Management,2,Too long and boring
+AI Seminar,Seminar,IT,1,Poor management
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+Business Talk,Seminar,Management,1,Not useful
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+Business Talk,Seminar,Management,3,Could be better
+AI Seminar,Seminar,IT,3,Decent session
+Business Talk,Seminar,Management,3,Nothing special
+Business Talk,Seminar,Management,5,Highly engaging and useful
+AI Seminar,Seminar,IT,2,Expected more content
+Business Talk,Seminar,Management,2,Expected more content
+Business Talk,Seminar,Management,4,Amazing experience
+Robotics Workshop,Workshop,Mechanical,2,Too long and boring
+Tech Fest,Workshop,CSE,1,Not useful
+Robotics Workshop,Workshop,Mechanical,1,Expected more content
+Business Talk,Seminar,Management,1,Expected more content
+AI Seminar,Seminar,IT,3,Nothing special
+Cultural Night,Cultural,Arts,3,Could be better
+Cultural Night,Cultural,Arts,5,Very informative and fun
+Business Talk,Seminar,Management,5,Great event and well organized
+Tech Fest,Workshop,CSE,2,Very disappointing
+Robotics Workshop,Workshop,Mechanical,1,Too long and boring
+AI Seminar,Seminar,IT,3,Decent session
+AI Seminar,Seminar,IT,4,Very informative and fun
+AI Seminar,Seminar,IT,3,Nothing special
+Cultural Night,Cultural,Arts,4,Great event and well organized
+Tech Fest,Workshop,CSE,2,Expected more content
+Cultural Night,Cultural,Arts,3,Decent session
+Robotics Workshop,Workshop,Mechanical,4,Learned a lot from this session
+Business Talk,Seminar,Management,5,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+Business Talk,Seminar,Management,1,Poor management
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+Cultural Night,Cultural,Arts,5,Amazing experience
+Business Talk,Seminar,Management,3,Nothing special
+AI Seminar,Seminar,IT,4,Very informative and fun
+Business Talk,Seminar,Management,5,Learned a lot from this session
+Business Talk,Seminar,Management,3,Decent session
+Cultural Night,Cultural,Arts,1,Very disappointing
+Business Talk,Seminar,Management,5,Amazing experience
+Tech Fest,Workshop,CSE,2,Very disappointing
+Business Talk,Seminar,Management,4,Great event and well organized
+AI Seminar,Seminar,IT,3,Decent session
+Robotics Workshop,Workshop,Mechanical,2,Too long and boring
+Business Talk,Seminar,Management,2,Too long and boring
+Business Talk,Seminar,Management,3,Could be better
+AI Seminar,Seminar,IT,3,Average experience
+Robotics Workshop,Workshop,Mechanical,4,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,1,Expected more content
+Business Talk,Seminar,Management,2,Too long and boring
+Tech Fest,Workshop,CSE,2,Very disappointing
+Tech Fest,Workshop,CSE,3,Nothing special
+AI Seminar,Seminar,IT,2,Not useful
+Robotics Workshop,Workshop,Mechanical,5,Learned a lot from this session
+Robotics Workshop,Workshop,Mechanical,2,Very disappointing
+Business Talk,Seminar,Management,1,Very disappointing
+Cultural Night,Cultural,Arts,3,Nothing special
+Robotics Workshop,Workshop,Mechanical,4,Amazing experience
+Tech Fest,Workshop,CSE,5,Highly engaging and useful
+Business Talk,Seminar,Management,4,Highly engaging and useful
+AI Seminar,Seminar,IT,5,Learned a lot from this session
+Business Talk,Seminar,Management,5,Highly engaging and useful
+Tech Fest,Workshop,CSE,1,Expected more content
+Tech Fest,Workshop,CSE,2,Too long and boring
+Tech Fest,Workshop,CSE,5,Great event and well organized
+Business Talk,Seminar,Management,4,Amazing experience
+Business Talk,Seminar,Management,2,Too long and boring
+Robotics Workshop,Workshop,Mechanical,4,Highly engaging and useful
+Cultural Night,Cultural,Arts,2,Poor management
+AI Seminar,Seminar,IT,5,Highly engaging and useful
+Tech Fest,Workshop,CSE,4,Very informative and fun
+Business Talk,Seminar,Management,1,Expected more content
+Tech Fest,Workshop,CSE,1,Expected more content
+Cultural Night,Cultural,Arts,1,Too long and boring
+Tech Fest,Workshop,CSE,5,Great event and well organized
+Tech Fest,Workshop,CSE,4,Great event and well organized
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Cultural Night,Cultural,Arts,3,Average experience
+Robotics Workshop,Workshop,Mechanical,1,Not useful
+Cultural Night,Cultural,Arts,5,Very informative and fun
+Tech Fest,Workshop,CSE,4,Highly engaging and useful
+Tech Fest,Workshop,CSE,1,Expected more content
+AI Seminar,Seminar,IT,4,Amazing experience
+Business Talk,Seminar,Management,2,Too long and boring
+Robotics Workshop,Workshop,Mechanical,4,Highly engaging and useful
+Tech Fest,Workshop,CSE,3,Decent session
+Tech Fest,Workshop,CSE,1,Poor management
+Business Talk,Seminar,Management,2,Too long and boring
+Tech Fest,Workshop,CSE,2,Very disappointing
+AI Seminar,Seminar,IT,5,Learned a lot from this session
+Business Talk,Seminar,Management,5,Great event and well organized
+Tech Fest,Workshop,CSE,3,Average experience
+AI Seminar,Seminar,IT,2,Poor management
+AI Seminar,Seminar,IT,4,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+Robotics Workshop,Workshop,Mechanical,2,Poor management
+Cultural Night,Cultural,Arts,2,Too long and boring
+Cultural Night,Cultural,Arts,4,Very informative and fun
+Cultural Night,Cultural,Arts,4,Very informative and fun
+AI Seminar,Seminar,IT,1,Not useful
+Tech Fest,Workshop,CSE,3,It was okay
+Robotics Workshop,Workshop,Mechanical,2,Expected more content
+AI Seminar,Seminar,IT,3,Decent session
+AI Seminar,Seminar,IT,4,Great event and well organized
+AI Seminar,Seminar,IT,2,Not useful
+Robotics Workshop,Workshop,Mechanical,3,Decent session
+Business Talk,Seminar,Management,2,Expected more content
+Robotics Workshop,Workshop,Mechanical,5,Learned a lot from this session
+Robotics Workshop,Workshop,Mechanical,2,Very disappointing
+Business Talk,Seminar,Management,2,Very disappointing
+Robotics Workshop,Workshop,Mechanical,5,Amazing experience
+AI Seminar,Seminar,IT,4,Very informative and fun
+AI Seminar,Seminar,IT,1,Too long and boring
+Tech Fest,Workshop,CSE,3,Average experience
+Business Talk,Seminar,Management,1,Not useful
+Tech Fest,Workshop,CSE,4,Great event and well organized
+Business Talk,Seminar,Management,3,It was okay
+AI Seminar,Seminar,IT,1,Poor management
+Tech Fest,Workshop,CSE,2,Poor management
+AI Seminar,Seminar,IT,3,Could be better
+Business Talk,Seminar,Management,3,Decent session
+AI Seminar,Seminar,IT,4,Learned a lot from this session
+AI Seminar,Seminar,IT,4,Amazing experience
+Business Talk,Seminar,Management,2,Not useful
+Robotics Workshop,Workshop,Mechanical,3,It was okay
+Tech Fest,Workshop,CSE,5,Amazing experience
+Business Talk,Seminar,Management,4,Highly engaging and useful
+Business Talk,Seminar,Management,1,Very disappointing
+AI Seminar,Seminar,IT,3,It was okay
+Business Talk,Seminar,Management,3,Nothing special
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+AI Seminar,Seminar,IT,2,Poor management
+AI Seminar,Seminar,IT,2,Expected more content
+Business Talk,Seminar,Management,5,Amazing experience
+Cultural Night,Cultural,Arts,5,Very informative and fun
+Tech Fest,Workshop,CSE,3,Decent session
+Tech Fest,Workshop,CSE,1,Very disappointing
+Cultural Night,Cultural,Arts,1,Too long and boring
+Cultural Night,Cultural,Arts,1,Not useful
+AI Seminar,Seminar,IT,1,Very disappointing
+Cultural Night,Cultural,Arts,4,Great event and well organized
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Tech Fest,Workshop,CSE,1,Expected more content
+Business Talk,Seminar,Management,5,Highly engaging and useful
+AI Seminar,Seminar,IT,3,Average experience
+Cultural Night,Cultural,Arts,3,Could be better
+AI Seminar,Seminar,IT,4,Amazing experience
+Robotics Workshop,Workshop,Mechanical,1,Not useful
+AI Seminar,Seminar,IT,1,Not useful
+Cultural Night,Cultural,Arts,5,Highly engaging and useful
+AI Seminar,Seminar,IT,4,Great event and well organized
+Cultural Night,Cultural,Arts,5,Amazing experience
+Robotics Workshop,Workshop,Mechanical,1,Poor management
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+Business Talk,Seminar,Management,4,Amazing experience
+Tech Fest,Workshop,CSE,1,Too long and boring
+Business Talk,Seminar,Management,1,Expected more content
+Tech Fest,Workshop,CSE,1,Too long and boring
+AI Seminar,Seminar,IT,5,Very informative and fun
+Robotics Workshop,Workshop,Mechanical,3,Average experience
+Business Talk,Seminar,Management,5,Learned a lot from this session
+Cultural Night,Cultural,Arts,4,Very informative and fun
+Tech Fest,Workshop,CSE,3,Decent session
+Robotics Workshop,Workshop,Mechanical,5,Great event and well organized
+Cultural Night,Cultural,Arts,2,Not useful
+AI Seminar,Seminar,IT,1,Not useful
+Robotics Workshop,Workshop,Mechanical,1,Poor management
+Robotics Workshop,Workshop,Mechanical,4,Very informative and fun
+AI Seminar,Seminar,IT,5,Amazing experience
+Tech Fest,Workshop,CSE,1,Too long and boring
+Tech Fest,Workshop,CSE,1,Poor management
+Robotics Workshop,Workshop,Mechanical,5,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,3,Nothing special
+Robotics Workshop,Workshop,Mechanical,1,Very disappointing
+AI Seminar,Seminar,IT,2,Very disappointing
+Tech Fest,Workshop,CSE,2,Not useful
+Business Talk,Seminar,Management,1,Expected more content
+Tech Fest,Workshop,CSE,5,Highly engaging and useful
+Cultural Night,Cultural,Arts,1,Too long and boring
+Business Talk,Seminar,Management,3,Average experience
+Robotics Workshop,Workshop,Mechanical,4,Highly engaging and useful
+Robotics Workshop,Workshop,Mechanical,4,Very informative and fun
+Cultural Night,Cultural,Arts,1,Too long and boring
+Business Talk,Seminar,Management,5,Great event and well organized
+AI Seminar,Seminar,IT,4,Highly engaging and useful
+Business Talk,Seminar,Management,3,It was okay
+Cultural Night,Cultural,Arts,4,Very informative and fun
+Tech Fest,Workshop,CSE,3,Could be better
+Tech Fest,Workshop,CSE,2,Very disappointing
+Tech Fest,Workshop,CSE,1,Not useful
+Business Talk,Seminar,Management,4,Very informative and fun
+Tech Fest,Workshop,CSE,4,Very informative and fun
+Cultural Night,Cultural,Arts,1,Expected more content
+Business Talk,Seminar,Management,1,Not useful
+Tech Fest,Workshop,CSE,3,It was okay
+Tech Fest,Workshop,CSE,3,Average experience
+Business Talk,Seminar,Management,1,Poor management
+Business Talk,Seminar,Management,1,Expected more content
+Robotics Workshop,Workshop,Mechanical,3,Average experience
+AI Seminar,Seminar,IT,2,Not useful
+AI Seminar,Seminar,IT,5,Very informative and fun
+Tech Fest,Workshop,CSE,3,Nothing special
+Tech Fest,Workshop,CSE,2,Too long and boring
+Business Talk,Seminar,Management,1,Too long and boring
+Business Talk,Seminar,Management,1,Very disappointing
+Cultural Night,Cultural,Arts,2,Very disappointing
+Business Talk,Seminar,Management,3,Could be better
+Cultural Night,Cultural,Arts,5,Very informative and fun
+Tech Fest,Workshop,CSE,2,Not useful
+AI Seminar,Seminar,IT,4,Very informative and fun
+Cultural Night,Cultural,Arts,1,Too long and boring
+Business Talk,Seminar,Management,5,Amazing experience
+AI Seminar,Seminar,IT,2,Too long and boring
+Robotics Workshop,Workshop,Mechanical,1,Poor management
+AI Seminar,Seminar,IT,1,Too long and boring
+Tech Fest,Workshop,CSE,4,Highly engaging and useful
+Tech Fest,Workshop,CSE,4,Great event and well organized
+Tech Fest,Workshop,CSE,1,Not useful
+Tech Fest,Workshop,CSE,2,Very disappointing
+Business Talk,Seminar,Management,5,Very informative and fun
+Cultural Night,Cultural,Arts,2,Too long and boring
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+Tech Fest,Workshop,CSE,1,Not useful
+Robotics Workshop,Workshop,Mechanical,1,Poor management
+Tech Fest,Workshop,CSE,3,Average experience
+Cultural Night,Cultural,Arts,5,Amazing experience
+Cultural Night,Cultural,Arts,2,Expected more content
+AI Seminar,Seminar,IT,5,Learned a lot from this session
+Robotics Workshop,Workshop,Mechanical,1,Very disappointing
+Business Talk,Seminar,Management,5,Learned a lot from this session
+AI Seminar,Seminar,IT,3,Nothing special
+Robotics Workshop,Workshop,Mechanical,4,Amazing experience
+Tech Fest,Workshop,CSE,5,Amazing experience
+Robotics Workshop,Workshop,Mechanical,5,Amazing experience
+AI Seminar,Seminar,IT,3,Nothing special
+Cultural Night,Cultural,Arts,1,Expected more content
+Robotics Workshop,Workshop,Mechanical,4,Very informative and fun
+Tech Fest,Workshop,CSE,4,Amazing experience
+Robotics Workshop,Workshop,Mechanical,3,It was okay
+Robotics Workshop,Workshop,Mechanical,5,Amazing experience
+Robotics Workshop,Workshop,Mechanical,4,Amazing experience
+Tech Fest,Workshop,CSE,1,Too long and boring
+Cultural Night,Cultural,Arts,5,Amazing experience
+Tech Fest,Workshop,CSE,5,Highly engaging and useful
+Tech Fest,Workshop,CSE,3,Nothing special
+Robotics Workshop,Workshop,Mechanical,4,Amazing experience
+Tech Fest,Workshop,CSE,2,Very disappointing
+Cultural Night,Cultural,Arts,1,Not useful
+AI Seminar,Seminar,IT,4,Great event and well organized
+Business Talk,Seminar,Management,1,Expected more content
+Cultural Night,Cultural,Arts,1,Too long and boring
+Business Talk,Seminar,Management,3,Average experience
+Robotics Workshop,Workshop,Mechanical,2,Expected more content
+AI Seminar,Seminar,IT,4,Very informative and fun
+Robotics Workshop,Workshop,Mechanical,4,Great event and well organized
+Business Talk,Seminar,Management,4,Amazing experience
+Tech Fest,Workshop,CSE,1,Expected more content
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+AI Seminar,Seminar,IT,1,Too long and boring
+Cultural Night,Cultural,Arts,1,Expected more content
+Tech Fest,Workshop,CSE,5,Learned a lot from this session
+Cultural Night,Cultural,Arts,5,Great event and well organized
+AI Seminar,Seminar,IT,1,Too long and boring
+AI Seminar,Seminar,IT,3,Average experience
+AI Seminar,Seminar,IT,5,Amazing experience
+AI Seminar,Seminar,IT,1,Too long and boring
+Tech Fest,Workshop,CSE,2,Too long and boring
+Cultural Night,Cultural,Arts,4,Learned a lot from this session
+Tech Fest,Workshop,CSE,5,Learned a lot from this session
+Business Talk,Seminar,Management,5,Great event and well organized
+Cultural Night,Cultural,Arts,1,Not useful
+Robotics Workshop,Workshop,Mechanical,3,Average experience
+Robotics Workshop,Workshop,Mechanical,3,Average experience
+Robotics Workshop,Workshop,Mechanical,1,Not useful
+AI Seminar,Seminar,IT,5,Great event and well organized
+Cultural Night,Cultural,Arts,4,Very informative and fun
+AI Seminar,Seminar,IT,4,Amazing experience
+AI Seminar,Seminar,IT,3,Average experience
+AI Seminar,Seminar,IT,4,Very informative and fun
+Robotics Workshop,Workshop,Mechanical,4,Highly engaging and useful
+Robotics Workshop,Workshop,Mechanical,2,Poor management
+Robotics Workshop,Workshop,Mechanical,5,Great event and well organized
+AI Seminar,Seminar,IT,3,Average experience
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+Business Talk,Seminar,Management,4,Great event and well organized
+Business Talk,Seminar,Management,3,It was okay
+Cultural Night,Cultural,Arts,1,Poor management
+AI Seminar,Seminar,IT,1,Poor management
+Cultural Night,Cultural,Arts,2,Not useful
+Business Talk,Seminar,Management,5,Amazing experience
+Cultural Night,Cultural,Arts,1,Not useful
+Tech Fest,Workshop,CSE,1,Very disappointing
+Cultural Night,Cultural,Arts,1,Very disappointing
+Cultural Night,Cultural,Arts,1,Not useful
+Tech Fest,Workshop,CSE,5,Learned a lot from this session
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+Cultural Night,Cultural,Arts,3,Nothing special
+Business Talk,Seminar,Management,5,Great event and well organized
+Tech Fest,Workshop,CSE,1,Poor management
+Robotics Workshop,Workshop,Mechanical,5,Great event and well organized
+Business Talk,Seminar,Management,2,Expected more content
+Cultural Night,Cultural,Arts,3,It was okay
+Robotics Workshop,Workshop,Mechanical,2,Very disappointing
+AI Seminar,Seminar,IT,4,Amazing experience
+AI Seminar,Seminar,IT,5,Highly engaging and useful
+AI Seminar,Seminar,IT,2,Expected more content
+Tech Fest,Workshop,CSE,5,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,2,Very disappointing
+AI Seminar,Seminar,IT,3,It was okay
+Robotics Workshop,Workshop,Mechanical,3,Nothing special
+AI Seminar,Seminar,IT,3,Nothing special
+AI Seminar,Seminar,IT,3,Could be better
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Business Talk,Seminar,Management,1,Not useful
+Cultural Night,Cultural,Arts,3,Nothing special
+Cultural Night,Cultural,Arts,1,Poor management
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+Business Talk,Seminar,Management,1,Too long and boring
+Tech Fest,Workshop,CSE,3,Decent session
+Business Talk,Seminar,Management,4,Learned a lot from this session
+AI Seminar,Seminar,IT,1,Not useful
+AI Seminar,Seminar,IT,5,Great event and well organized
+AI Seminar,Seminar,IT,5,Highly engaging and useful
+Robotics Workshop,Workshop,Mechanical,2,Too long and boring
+AI Seminar,Seminar,IT,5,Very informative and fun
+Business Talk,Seminar,Management,3,Average experience
+Cultural Night,Cultural,Arts,1,Expected more content
+Business Talk,Seminar,Management,1,Poor management
+AI Seminar,Seminar,IT,3,Nothing special
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+AI Seminar,Seminar,IT,1,Poor management
+Tech Fest,Workshop,CSE,3,Average experience
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+Tech Fest,Workshop,CSE,3,Nothing special
+Tech Fest,Workshop,CSE,1,Expected more content
+Robotics Workshop,Workshop,Mechanical,3,It was okay
+Robotics Workshop,Workshop,Mechanical,2,Not useful
+AI Seminar,Seminar,IT,5,Great event and well organized
+Tech Fest,Workshop,CSE,1,Too long and boring
+Robotics Workshop,Workshop,Mechanical,3,Could be better
+Robotics Workshop,Workshop,Mechanical,5,Amazing experience
+Cultural Night,Cultural,Arts,2,Expected more content
+AI Seminar,Seminar,IT,5,Highly engaging and useful
+AI Seminar,Seminar,IT,5,Great event and well organized
+Business Talk,Seminar,Management,5,Learned a lot from this session
+Business Talk,Seminar,Management,4,Highly engaging and useful
+AI Seminar,Seminar,IT,4,Very informative and fun
+AI Seminar,Seminar,IT,1,Too long and boring
+Business Talk,Seminar,Management,2,Expected more content
+Business Talk,Seminar,Management,4,Highly engaging and useful
+Robotics Workshop,Workshop,Mechanical,3,Decent session
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Business Talk,Seminar,Management,5,Great event and well organized
+Cultural Night,Cultural,Arts,4,Great event and well organized
+AI Seminar,Seminar,IT,2,Poor management
+AI Seminar,Seminar,IT,3,It was okay
+Cultural Night,Cultural,Arts,4,Great event and well organized
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Business Talk,Seminar,Management,4,Very informative and fun
+AI Seminar,Seminar,IT,2,Too long and boring
+Robotics Workshop,Workshop,Mechanical,3,Decent session
+Business Talk,Seminar,Management,3,Nothing special
+AI Seminar,Seminar,IT,2,Expected more content
+Robotics Workshop,Workshop,Mechanical,4,Learned a lot from this session
+Tech Fest,Workshop,CSE,1,Very disappointing
+Robotics Workshop,Workshop,Mechanical,5,Great event and well organized
+AI Seminar,Seminar,IT,1,Poor management
+AI Seminar,Seminar,IT,2,Expected more content
+Tech Fest,Workshop,CSE,3,Nothing special
+Tech Fest,Workshop,CSE,5,Highly engaging and useful
+Cultural Night,Cultural,Arts,1,Too long and boring
+AI Seminar,Seminar,IT,3,Decent session
+AI Seminar,Seminar,IT,1,Too long and boring
+Tech Fest,Workshop,CSE,2,Not useful
+Robotics Workshop,Workshop,Mechanical,5,Amazing experience
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Cultural Night,Cultural,Arts,3,It was okay
+Business Talk,Seminar,Management,3,Decent session
+Business Talk,Seminar,Management,4,Highly engaging and useful
+Cultural Night,Cultural,Arts,5,Highly engaging and useful
+AI Seminar,Seminar,IT,1,Expected more content
+Business Talk,Seminar,Management,5,Learned a lot from this session
+Business Talk,Seminar,Management,3,Could be better
+Cultural Night,Cultural,Arts,3,Nothing special
+Business Talk,Seminar,Management,5,Learned a lot from this session
+AI Seminar,Seminar,IT,1,Not useful
+Tech Fest,Workshop,CSE,1,Poor management
+Business Talk,Seminar,Management,1,Too long and boring
+Robotics Workshop,Workshop,Mechanical,3,Decent session
+Robotics Workshop,Workshop,Mechanical,5,Very informative and fun
+Robotics Workshop,Workshop,Mechanical,2,Poor management
+Tech Fest,Workshop,CSE,2,Expected more content
+Tech Fest,Workshop,CSE,4,Very informative and fun
+Robotics Workshop,Workshop,Mechanical,4,Amazing experience
+Business Talk,Seminar,Management,2,Poor management
+Business Talk,Seminar,Management,2,Too long and boring
+Business Talk,Seminar,Management,1,Expected more content
+Business Talk,Seminar,Management,4,Great event and well organized
+AI Seminar,Seminar,IT,3,It was okay
+Cultural Night,Cultural,Arts,3,Decent session
+Tech Fest,Workshop,CSE,1,Expected more content
+AI Seminar,Seminar,IT,1,Poor management
+Tech Fest,Workshop,CSE,5,Very informative and fun
+Business Talk,Seminar,Management,1,Poor management
+Tech Fest,Workshop,CSE,2,Too long and boring
+Business Talk,Seminar,Management,4,Learned a lot from this session
+Tech Fest,Workshop,CSE,4,Amazing experience
+AI Seminar,Seminar,IT,5,Highly engaging and useful
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+AI Seminar,Seminar,IT,4,Amazing experience
+Cultural Night,Cultural,Arts,5,Very informative and fun
+AI Seminar,Seminar,IT,2,Too long and boring
+AI Seminar,Seminar,IT,3,It was okay
+Robotics Workshop,Workshop,Mechanical,1,Very disappointing
+Tech Fest,Workshop,CSE,2,Expected more content
+Business Talk,Seminar,Management,4,Amazing experience
+Cultural Night,Cultural,Arts,3,Nothing special
+Cultural Night,Cultural,Arts,4,Highly engaging and useful
+Business Talk,Seminar,Management,1,Not useful
+Business Talk,Seminar,Management,2,Too long and boring
+Business Talk,Seminar,Management,5,Very informative and fun
+Business Talk,Seminar,Management,5,Highly engaging and useful
+Robotics Workshop,Workshop,Mechanical,1,Poor management
+Cultural Night,Cultural,Arts,1,Not useful
+Business Talk,Seminar,Management,5,Learned a lot from this session
+AI Seminar,Seminar,IT,4,Very informative and fun
+Tech Fest,Workshop,CSE,1,Very disappointing
+Cultural Night,Cultural,Arts,4,Highly engaging and useful
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Cultural Night,Cultural,Arts,4,Amazing experience
+Tech Fest,Workshop,CSE,2,Expected more content
+Tech Fest,Workshop,CSE,2,Too long and boring
+Business Talk,Seminar,Management,4,Learned a lot from this session
+Tech Fest,Workshop,CSE,4,Very informative and fun
+Cultural Night,Cultural,Arts,5,Learned a lot from this session
+Tech Fest,Workshop,CSE,3,Decent session
+Robotics Workshop,Workshop,Mechanical,3,Nothing special
+Tech Fest,Workshop,CSE,2,Not useful
+Business Talk,Seminar,Management,1,Expected more content
+Business Talk,Seminar,Management,1,Not useful
+AI Seminar,Seminar,IT,4,Learned a lot from this session
+Business Talk,Seminar,Management,1,Not useful
+Cultural Night,Cultural,Arts,1,Expected more content
+AI Seminar,Seminar,IT,4,Amazing experience
+AI Seminar,Seminar,IT,3,Decent session
+AI Seminar,Seminar,IT,3,Decent session
+Robotics Workshop,Workshop,Mechanical,5,Great event and well organized
+Robotics Workshop,Workshop,Mechanical,2,Very disappointing
+Cultural Night,Cultural,Arts,4,Amazing experience
+Robotics Workshop,Workshop,Mechanical,5,Highly engaging and useful
+AI Seminar,Seminar,IT,4,Amazing experience
+Cultural Night,Cultural,Arts,1,Poor management
+Business Talk,Seminar,Management,2,Not useful
+Cultural Night,Cultural,Arts,1,Too long and boring
+Tech Fest,Workshop,CSE,1,Expected more content
+Tech Fest,Workshop,CSE,4,Learned a lot from this session
+Cultural Night,Cultural,Arts,1,Too long and boring
+AI Seminar,Seminar,IT,4,Highly engaging and useful
+Business Talk,Seminar,Management,4,Amazing experience
